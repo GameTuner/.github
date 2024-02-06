@@ -33,7 +33,7 @@ GameTuner is built on top of Snowplow Open Source data pipeline. It contains nex
 
 Below is the architecture of GameTuner solution:
 
-![GameTuner Architecture](../docs/images/gametuner-architecture.png)
+![gametuner-architecture](https://github.com/GameTuner/.github/blob/3e225255589b191a1e2e31b86e3e7254144a7c6c/docs/images/gametuner-architecture.png)
 
 ## Getting Started
 
