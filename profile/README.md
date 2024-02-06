@@ -32,7 +32,7 @@ GameTuner is built on top of Snowplow Open Source data pipeline. It contains nex
 
 Below is the architecture of GameTuner solution:
 
-![GameTuner Architecture](docs/images/gametuner-architecture.png)
+![GameTuner Architecture](../docs/images/gametuner-architecture.png)
 
 [gametuner-unity-sdk]:https://github.com/GameTuner/unity-tracker.git
 [gametuner-collector]:https://github.com/GameTuner/collector.git
