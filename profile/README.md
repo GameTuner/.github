@@ -21,6 +21,7 @@ Game Tuner is specialized for mobile game development. Below are some of the are
 
 GameTuner is built on top of Snowplow Open Source data pipeline. It contains next components:
 
+- [GameTuner Terraform GCP][gametuner-terraform-gcp] - a set of terraform environments and modules to create and manage GCP resources for GameTuner project.
 - [GameTuner Unity SDK][gametuner-unity-sdk] - a Unity SDK that collects events from mobile games and sends them to the pipeline.
 - [GameTuner Collector][gametuner-collector] - a collector application that collects events from tracker and sends them to the pipeline.
 - [GameTuner Enricher][gametuner-enricher] - an enricher application that enriches events with additional data and sends them to the pipeline.
@@ -34,6 +35,11 @@ Below is the architecture of GameTuner solution:
 
 ![GameTuner Architecture](../docs/images/gametuner-architecture.png)
 
+## Getting Started
+
+Start setup and deploy of GameTuner services using [GameTuner Terraform GCP][gametuner-terraform-gcp].
+
+[gametuner-terraform-gcp]:https://github.com/GameTuner/terraform-gcp.git
 [gametuner-unity-sdk]:https://github.com/GameTuner/unity-tracker.git
 [gametuner-collector]:https://github.com/GameTuner/collector.git
 [gametuner-enricher]:https://github.com/GameTuner/enricher.git
