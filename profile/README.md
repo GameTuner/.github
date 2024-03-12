@@ -31,13 +31,15 @@ GameTuner is built on top of Snowplow Open Source data pipeline. It contains nex
 - [GameTuner ETL Service][gametuner-etl-service] - an ETL service that does data modeling specific for gaming. Developed in AirFlow and deployed on GCP Composer. 
 - [GameTuner Enrich Bad Sink][gametuner-enrich-bad-sink] - a service that is responsible for sinking pub/sub messages from enrich bad topic to BigQuery.
 
-Below is the architecture of GameTuner solution:
-
-![gametuner-architecture](https://github.com/GameTuner/.github/blob/3e225255589b191a1e2e31b86e3e7254144a7c6c/docs/images/gametuner-architecture.png)
 
 ## Getting Started
 
 Start setup and deploy of GameTuner services using [GameTuner Terraform GCP][gametuner-terraform-gcp].
+
+Below is the architecture of GameTuner solution:
+
+![gametuner-architecture](https://github.com/GameTuner/.github/blob/3e225255589b191a1e2e31b86e3e7254144a7c6c/docs/images/gametuner-architecture.png)
+
 
 [gametuner-terraform-gcp]:https://github.com/GameTuner/terraform-gcp.git
 [gametuner-unity-sdk]:https://github.com/GameTuner/unity-tracker.git
