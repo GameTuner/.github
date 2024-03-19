@@ -38,7 +38,7 @@ Start setup and deploy of GameTuner services using [GameTuner Terraform GCP][gam
 
 Below is the architecture of GameTuner solution:
 
-![gametuner-architecture](https://github.com/GameTuner/.github/blob/3e225255589b191a1e2e31b86e3e7254144a7c6c/docs/images/gametuner-architecture.png)
+![gametuner-architecture](https://github.com/GameTuner/.github/blob/main/docs/images/gametuner-architecture.png?raw=true)
 
 
 [gametuner-terraform-gcp]:https://github.com/GameTuner/terraform-gcp.git
