@@ -2,6 +2,8 @@
 
 GameTuner is a data platform, specialized in mobile gaming, built on top of Snowplow Open Source data pipeline. It comes with preset BI tool and integrations. We focused on satisfying the whole business vertical needs in Mobile Gaming.
 
+![gametuner-promo](https://github.com/GameTuner/.github/blob/main/docs/images/gametuner-promo.jpg?raw=true)
+
 ## What GameTuner solves
 
 Game Tuner is specialized for mobile game development. Below are some of the areas that GameTuner solves:
